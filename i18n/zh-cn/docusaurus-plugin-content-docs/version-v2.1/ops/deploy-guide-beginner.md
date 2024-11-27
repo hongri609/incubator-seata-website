@@ -36,7 +36,7 @@ Seata分TC、TM和RM三个角色，TC（Server端）为单独服务端部署，T
 
 ```java
            <dependency>
-                <groupId>io.seata</groupId>
+                <groupId>org.apache.seata</groupId>
                 <artifactId>seata-spring-boot-starter</artifactId>
                 <version>最新版</version>
             </dependency>
